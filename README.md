@@ -10,7 +10,7 @@
 
 ### Description:
  
-Pulls data from the CoinGecko Data Market API and displays the top 5 countries using cryptocurrencies:
+Pulls data from the CoinGecko Data Market API and displays coins and information about them. Also displays the top 5 countries using cryptocurrencies:
 
 1. USA
 2. India
